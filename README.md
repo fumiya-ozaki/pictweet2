@@ -20,10 +20,5 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+git commit --allow-empty -m 'create pull request'
 
-test
-* ...
-
-test2
-
-test3
