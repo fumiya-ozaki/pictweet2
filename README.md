@@ -22,4 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 git commit --allow-empty -m 'create pull request'
 
-テスト１
